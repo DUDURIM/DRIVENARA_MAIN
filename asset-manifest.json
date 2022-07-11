@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/DRIVENARA_MAIN/static/css/main.ae42ac5f.css",
+    "main.js": "/DRIVENARA_MAIN/static/js/main.8a039804.js",
+    "index.html": "/DRIVENARA_MAIN/index.html",
+    "main.ae42ac5f.css.map": "/DRIVENARA_MAIN/static/css/main.ae42ac5f.css.map",
+    "main.8a039804.js.map": "/DRIVENARA_MAIN/static/js/main.8a039804.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ae42ac5f.css",
+    "static/js/main.8a039804.js"
+  ]
+}
